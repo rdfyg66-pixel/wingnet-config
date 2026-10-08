@@ -1,11 +1,11 @@
 {
   "show_dialog": true,
   "show_notification": false,
-  "title": "🎉 تحديث جديد!",
-  "message": "تم تحديث التطبيق. اضغط حسناً للتحميل.",
-  "download_url": "https://your-site.com/download/app.apk",
-  "cancel_text": "لاحقاً",
-  "ok_text": "تحميل الآن",
+  "title": "نزل تحديث !",
+  "message": "حبيبي اكو تحديث بالتطبيق ❤️",
+  "download_url": "https://t.me/andupd/7",
+  "cancel_text": "بعدين احملة",
+  "ok_text": "منا تحمل",
   "notification_title": "WingNet",
-  "notification_text": "تحديث جديد متاح"
+  "notification_text": "نزل تحديث للتطبيق"
 }
