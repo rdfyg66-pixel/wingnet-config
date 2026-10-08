@@ -1,11 +1,11 @@
 {
   "show_dialog": true,
   "show_notification": false,
-  "title": "نزل تحديث للحماية!",
-  "message": "شوكت تحدث؟",
+  "title": "هلا بيك بالتطبيق ",
+  "message": "ترة مدفوع مو مجاني يعني العب بحرية ومعليك بأحد وهذه للرومات والواو مو للكلاسك حبيبي💕",
   "download_url": "https://t.me/andupd/7",
-  "cancel_text": "بعدين احملة",
-  "ok_text": "منا تحمل",
+  "cancel_text": "حسناً",
+  "ok_text": "",
   "notification_title": "WingNet",
-  "notification_text": "نزل تحديث للتطبيق"
+  "notification_text": "هلا بيك حبي"
 }
