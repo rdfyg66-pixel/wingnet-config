@@ -1,0 +1,11 @@
+{
+  "show_dialog": true,
+  "show_notification": false,
+  "title": "🎉 تحديث جديد!",
+  "message": "تم تحديث التطبيق. اضغط حسناً للتحميل.",
+  "download_url": "https://your-site.com/download/app.apk",
+  "cancel_text": "لاحقاً",
+  "ok_text": "تحميل الآن",
+  "notification_title": "WingNet",
+  "notification_text": "تحديث جديد متاح"
+}
